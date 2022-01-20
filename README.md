@@ -1,6 +1,8 @@
-# base16-darcular-scheme
+# base16-voidarcular-scheme
 
-Inspired by default darcula theme in JetBeans IDE
+Inspired by default darcula theme in JetBeans IDE.
+
+Updated to blackout background.
 
 To get a closer theme add these lines to `init.vim`
 
